@@ -33,7 +33,7 @@ python game.py --mode thrust --play True
 
 
 ## Screenshots
-![alt text](https://github.com/ArshiaRahimi/EvolutionaryGames-main/blob/master/ScreenShot 1.png?raw=true)
+![alt text](https://github.com/ArshiaRahimi/EvolutionaryGames-main/blob/master/ScreenShot%201.png?raw=true)
 
 ## Contributors
 - [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
