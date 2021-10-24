@@ -6,17 +6,18 @@ In this project, a simple 2D minigame is implemented. <br>
 The agent(helicopter) should learn how to cross the obstacles and finish the game
 <br>
 
-#Algortithms
+# Algortithms
 <br>In order to implement this project we should implement two algorithms
 - Genetic Algorithm
 - Neural Network
-#Built With
+# Built With
 in order to run this project, following libraries should be installed
 - Numpy
 - pygame
 - matplotlib
 
-#Getting Started
+
+## Getting Started
 to run the game in helicopter mode use the command below
 ```shell
 python game.py --mode helicopter --play True
@@ -32,7 +33,7 @@ python game.py --mode thrust --play True
 
 
 ## Screenshots
-![](ScreenShot 1.png)
+![alt text](ScreenShot 1.png)
 
 ## Contributors
 - [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
