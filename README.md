@@ -6,7 +6,7 @@ In this project, a simple 2D minigame is implemented. <br>
 The agent(helicopter) should learn how to cross the obstacles and finish the game
 <br>
 
-##Algortithms
+#Algortithms
 <br>In order to implement this project we should implement two algorithms
 - Genetic Algorithm
 - Neural Network
